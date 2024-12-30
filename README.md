@@ -47,32 +47,8 @@ Bu uygulama, yemek tariflerinizi planlamak ve malzeme stoğunuzu yönetmek için
 
 ---
 
-## 📊 **Renkli Konsol İle Dinamik Deneyim**  
-
-- **💚 Yeşil**: Başarılı işlemler, bilgilendirme mesajları
-- **🔴 Kırmızı**: Hatalı girişler ve uyarılar
-- **🔵 Mavi**: Menü talimatları ve kullanıcı rehberi
-- **🟡 Sarı**: Kullanıcıdan alınan veriler için talimatlar
-
----
-
-## 🛠️ **Teknik Detaylar ve Kullanılan Teknolojiler**
-
-- **C#**: Uygulama yazılımı için ana programlama dili.
-- **.NET Core**: Konsol uygulaması geliştirme için kullanılan framework.
-- **Dictionary**: Malzeme ve tarif bilgileri için veri yapıları.
-- **LINQ**: Listeleme ve veri filtreleme işlemleri için.
-
----
-
 ## 🌍 **Yemek Planlama ve Stok Takibi Yaparken Güçlü Bir Yardımcı**  
 
 Yemek tariflerinizi planlarken ve malzeme yönetimi yaparken, uygulama sayesinde verimli bir şekilde ilerleyebilirsiniz. Hem sağlıklı hem de pratik yemek tariflerinizi kategoriye göre düzenleyin. Uygulama, yemek hazırlığınızı daha verimli hale getirecek ve malzeme kullanımınızı en üst düzeye çıkaracaktır.
-
----
-
-## 🔧 **Geliştirici ve Katkılar**
-
-Bu projeye katkıda bulunmak veya önerilerde bulunmak isterseniz, pull request göndererek katkı sağlayabilirsiniz. Hatalar veya geliştirme önerileri için lütfen bir "issue" açın.
 
 ---
