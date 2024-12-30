@@ -1,0 +1,14 @@
+c:\Users\han\Desktop\Yemek\bin\Debug\net9.0\Yemek.exe
+c:\Users\han\Desktop\Yemek\bin\Debug\net9.0\Yemek.deps.json
+c:\Users\han\Desktop\Yemek\bin\Debug\net9.0\Yemek.runtimeconfig.json
+c:\Users\han\Desktop\Yemek\bin\Debug\net9.0\Yemek.dll
+c:\Users\han\Desktop\Yemek\bin\Debug\net9.0\Yemek.pdb
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.AssemblyInfoInputs.cache
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.AssemblyInfo.cs
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.csproj.CoreCompileInputs.cache
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.dll
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\refint\Yemek.dll
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.pdb
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\Yemek.genruntimeconfig.cache
+c:\Users\han\Desktop\Yemek\obj\Debug\net9.0\ref\Yemek.dll
